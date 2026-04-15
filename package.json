@@ -9,8 +9,8 @@
     "restart": "pm2 restart DARK-SILENCE-MD"
   },
   "engines": {
-    "node": ">=22.16.0",
-    "npm": ">=11.4.1"
+  "node": "24.x",
+  "npm": "11.x"
   },
   "dependencies": {
         "@adiwajshing/keyed-db": "^0.2.4",
