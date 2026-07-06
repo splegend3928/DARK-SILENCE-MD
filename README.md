@@ -102,7 +102,7 @@ https://github.com/DARKSILENCE04/DARK-SILENCE-MD
 ----------
 
 <p align="center">
-<a href='https://yucky-eloisa-silent555-c8aa2f53.koyeb.app/' target="_blank">
+<a href='https://asilent-pair-4-6b64386e281d.herokuapp.com/' target="_blank">
   <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Session%20id-FF0000?style=for-the-badge&logo=opencv&logoColor=black'/>
 </a>
 
